@@ -1,4 +1,4 @@
-module version1
+module github.com/medant81/hello/version1
 
 go 1.22.1
 
